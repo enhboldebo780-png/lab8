@@ -11,3 +11,5 @@
 
 ## Author
 О. Энхболд
+
+![alt text](image-1.png)
